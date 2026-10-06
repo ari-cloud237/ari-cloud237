@@ -12,7 +12,7 @@ Passionné par l'**Infrastructure as Code (IaC)**, le **DevSecOps** et les **arc
 - 🔭 **Projet en cours** : `aws-core-infrastructure-iac` pour perfectionner mes pratiques d'IaC et de scanning de sécurité.
 - 🌱 **En apprentissage** : Approfondissement de l'Infrastructure as Code (IaC), initiation au Pentesting d'applications Web.
 - 💬 **Posez-moi des questions sur** : Infrastructure as Code (Terraform/Ansible), Sécurisation Linux, Conteneurisation Docker, Architectures Réseaux (CCNA).
-- 📫 **Contact** : [LinkedIn](https://linkedin.com/in/chris-nanfack-9a024b360) • [Email](mailto:nanfackchris2@gmail.com) • (+237) 692 020 910
+- 📫 **Contact** : [LinkedIn](https://linkedin.com/in/chris-nanfack) • [Email](mailto:nanfackchris2@gmail.com) • (+237) 692 020 910
 
 
 ---
